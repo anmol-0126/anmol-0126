@@ -1,4 +1,4 @@
-![logo](https://github.com/anmol-0126/anmol-0126/blob/main/github-header-banner.png)
+![logo](https://github.com/anmol-0126/anmol-0126/blob/main/github-header-banner%20(1).png)
 
 Hello, I'm Anmol Singh  <br><br>Aspiring Software Developer | Web Development Enthusiast  <br><br>I am actively developing my skills in modern web technologies and building practical projects to strengthen my technical foundation.<br><br>💻 Technical Skills:<br>Frontend: HTML, CSS, JavaScript, React  <br>Backend: Python  <br>Database: MongoDB  <br><br>I am currently seeking internship opportunities to apply my skills and gain industry experience.<br>
 
