@@ -1,8 +1,11 @@
 ![logo](https://github.com/anmol-0126/anmol-0126/blob/main/github-header-banner%20(1).png)
 
-<img src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif" width="400" height="300" align="right"/>
+<img src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif"  width="325" height="300" align="right"/>
+Hello, I'm Anmol Singh  <br><br>Aspiring Software Developer | Web Development Enthusiast  <br><br>I am actively developing my skills in modern web technologies and building practical projects to strengthen my technical foundation.<br><br>💻 Technical Skills:<br>Frontend: HTML, CSS, JavaScript, React  <br>Backend: Python  <br>Database: MongoDB  <br><br>I am currently seeking internship opportunities to apply my skills and gain industry experience.<br><br>
 
-Hello, I'm Anmol Singh  <br><br>Aspiring Software Developer | Web Development Enthusiast  <br><br>I am actively developing my skills in modern web technologies and building practical projects to strengthen my technical foundation.<br><br>💻 Technical Skills:<br>Frontend: HTML, CSS, JavaScript, React  <br>Backend: Python  <br>Database: MongoDB  <br><br>I am currently seeking internship opportunities to apply my skills and gain industry experience.<br>
+<div>
+<img src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif" width="325" height="300"/>
+</div>
 
 
 ## 🌐 Socials:
