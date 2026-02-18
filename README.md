@@ -1,7 +1,7 @@
-# 💫 About Me:
+
 Hello, I'm Anmol Singh  <br><br>Aspiring Software Developer | Web Development Enthusiast  <br><br>I am actively developing my skills in modern web technologies and building practical projects to strengthen my technical foundation.<br><br>💻 Technical Skills:<br>Frontend: HTML, CSS, JavaScript, React  <br>Backend: Python  <br>Database: MongoDB  <br><br>I am currently seeking internship opportunities to apply my skills and gain industry experience.<br>
 
-<img src="https://miro.medium.com/1*uYkZXXw-QL-N_1gVndPH9A.gif"/>
+<img src="https://miro.medium.com/1*uYkZXXw-QL-N_1gVndPH9A.gif" width="300" height="200"/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anmol-singh-why) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anmolsinghh154@gmail.com) 
